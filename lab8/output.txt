@@ -1,0 +1,8 @@
+Insert 4
+Insert 1
+Insert 9
+Insert 10
+1 is already in the tree.
+10 is in the heap.
+5 is not in the heap.
+10 9 4 1 

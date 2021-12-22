@@ -1,0 +1,38 @@
+In the lab3-1, the new input can not be work correctly.
+you can test it.
+
+12
+pop
+push 1
+push 2
+push 3
+pop
+push 4
+pop
+push 5
+pop
+pop
+pop
+pop
+
+In the lab3-2, the new input can not be work correctly.
+you can test it.
+
+In the lab3-1, the new input can not be work correctly.
+you can test it.
+
+12
+enQ 1
+enQ 2
+deQ 
+enQ 3
+deQ 
+deQ
+deQ
+enQ 4
+deQ
+enQ 5
+deQ 
+deQ
+
+In the lab3-3, the new input can be work correctly.
